@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack MERN Project in Axis Bank as SDE-1<br>I am currently learning AWS Cloud 
+Full Stack MERN Project in Axis Bank as SDE-1<br>I am currently learning AWS Cloud, Next Js , Nest JS
 
 
 ## 🌐 Socials:
